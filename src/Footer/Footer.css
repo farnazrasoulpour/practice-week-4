@@ -1,0 +1,9 @@
+.footer{
+    padding: 45px;
+    box-shadow: -2px -4px 6px #ccc;
+    position: fixed; /*bechasbe paien safhe*/
+    bottom: 0%;  /* az paien 0 bashe fasele */ 
+    width: 100%;
+    font-size: 25px;
+
+}
